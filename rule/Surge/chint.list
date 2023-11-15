@@ -1,0 +1,18 @@
+# NAME: CHINT
+# AUTHOR: blackmatrix7
+# REPO: https://github.com/blackmatrix7/ios_rule_script
+# UPDATED: 2023-04-07 14:46:01
+# DOMAIN-SUFFIX: 1
+# TOTAL: 1
+DOMAIN-SUFFIX,chint.com
+DOMAIN-SUFFIX,chint.net
+DOMAIN-SUFFIX,noark.cn
+DOMAIN-SUFFIX,chintelc.com
+DOMAIN-SUFFIX,xinhuagroup.com
+DOMAIN-SUFFIX,elecon.cn
+DOMAIN-SUFFIX,chintanneng.com
+DOMAIN-SUFFIX,astro-energy.com
+DOMAIN-SUFFIX,chintpower.com
+DOMAIN-SUFFIX,tjsmc.net
+DOMAIN-SUFFIX,chintautoparts.com
+DOMAIN-SUFFIX,simbatt.com
